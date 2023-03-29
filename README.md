@@ -1,2 +1,2 @@
 # Portfolio
-# Se incluye el caso, los datos y el query en SQL Lite
+# Se incluye el caso, la base de datos y el query en SQL Lite
